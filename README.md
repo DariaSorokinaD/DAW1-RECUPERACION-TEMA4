@@ -12,7 +12,8 @@
 ## EJERCICIO 3 ##
 ![Ejercicio3](screenshots/3.png)
 ## EJERCICIO 4 ##
-![Ejercicio4](screenshots/4.png)
+![Ejercicio4](screenshots/4a.png)
+![Ejercicio4](screenshots/4b.png)
 ## EJERCICIO 5 ##
 ![Ejercicio5](screenshots/5.png)
 ## EJERCICIO 6 ##
