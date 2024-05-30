@@ -18,8 +18,8 @@
 ![Ejercicio5](screenshots/5a.png)
 ![Ejercicio5](screenshots/5b.png)
 ## EJERCICIO 6 ##
-![Ejercicio6](screenshots/6.png)
-## EJERCICIO 7 ##
-![Ejercicio7](screenshots/7.png)
+![Ejercicio6](screenshots/6a.png)
+![Ejercicio6](screenshots/6b.png)
+
 
 
